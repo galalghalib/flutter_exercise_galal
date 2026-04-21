@@ -89,7 +89,7 @@ MaterialPageRoute(
 عند الضغط على زر اضافة للمفضلة او تنزيل:
 
 Navigator.pop(context, "تمت الإضافة إلى المفضلة");
-
+ومن ثم يفعل pop hgn hgwti hgshfrm wtpm ;g hgogtdhj
 -
 
 ### Receiving Data 
